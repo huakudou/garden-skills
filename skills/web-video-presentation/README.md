@@ -119,40 +119,170 @@ The generated `presentation/` project is a normal Vite + React + TypeScript app.
 
 ---
 
-## Built-In Theme Directions
+## Theme Gallery
 
-The skill ships **23 themes**, each with its own design DNA — not a simple color swap. Browse the two groups below by canvas tone, pick one that fits, or use any of them as a starting point for a derived theme.
+The skill ships **23 themes**, each with its own design DNA — not a simple color swap. Browse the gallery below by canvas tone, pick one that fits the topic, or use any tile as a starting point for a derived theme. Click any preview to open the full-size 1920×1080 frame.
 
-### Dark (8 themes)
+> Frames are real 16:9 stages rendered by the live demo gallery at [`demo/web-video-presentation-demo`](../../demo/web-video-presentation-demo/).
 
-- `midnight-press` — cinematic editorial dark, warm espresso + hot orange
-- `chalk-garden` — slate chalkboard, handwritten Patrick Hand + chalk-yellow
-- `terminal-green` — 80s phosphor CRT, mono-only + scanlines
-- `blueprint` — drafting board, deep navy + cyan + 60px grid
-- `dark-botanical` — premium editorial dark, terracotta / blush / gold glow
-- `neon-cyber` — cyberpunk future, cyan + magenta double-neon
-- `bold-signal` — hero pitch deck, dark gradient + orange focal card
-- `creative-voltage` — saturated electric blue + neon yellow halftone
+### Dark · 8 themes
 
-### Light (15 themes)
+> Cinematic dark canvases — for focus, drama, and high-contrast storytelling.
 
-- `paper-press` — editorial paper, warm cream + hot orange
-- `warm-keynote` — modern SaaS keynote, glass slab + teal + warm grid
-- `newsroom` — NYT broadsheet, newsprint cream + banner red
-- `bauhaus-bold` — manifesto modernist, 0 radius + 4px thick frame
-- `sunset-zine` — risograph zine, peach + magenta + dashed cut lines
-- `monochrome-print` — refined Monocle / Wallpaper print restraint
-- `vintage-editorial` — witty Fraunces + geometric overlay (circle / line / dot)
-- `pastel-dream` — soft pastel + sage + right-edge pill ribbon
-- `split-canvas` — dual-tone, peach left + lavender right
-- `electric-studio` — corporate clarity, crisp white + electric-blue base bar
-- `indigo-porcelain` — indigo IS the ink (not just an accent) + porcelain white
-- `forest-ink` — forest green IS the ink + ivory (vintage National Geographic)
-- `kraft-paper` — deep brown IS the ink + kraft beige + copper accent
-- `dune` — charcoal + sand, near-zero accent (architecture brochure)
-- `swiss-ikb` — extra-light 200 weight Helvetica + IKB + 1px hairline grid
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/midnight-press.png"><img src="../../dist/imgs/web-video/midnight-press.png" alt="midnight-press preview" /></a>
+<br /><strong><code>midnight-press</code></strong>
+<br /><sub>Cinematic editorial dark · warm espresso + hot orange</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/dark-botanical.png"><img src="../../dist/imgs/web-video/dark-botanical.png" alt="dark-botanical preview" /></a>
+<br /><strong><code>dark-botanical</code></strong>
+<br /><sub>Premium editorial dark · terracotta / blush / gold glow</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/chalk-garden.png"><img src="../../dist/imgs/web-video/chalk-garden.png" alt="chalk-garden preview" /></a>
+<br /><strong><code>chalk-garden</code></strong>
+<br /><sub>Slate chalkboard · handwritten Patrick Hand + chalk-yellow</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/blueprint.png"><img src="../../dist/imgs/web-video/blueprint.png" alt="blueprint preview" /></a>
+<br /><strong><code>blueprint</code></strong>
+<br /><sub>Drafting board · deep navy + cyan + 60 px grid</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/terminal-green.png"><img src="../../dist/imgs/web-video/terminal-green.png" alt="terminal-green preview" /></a>
+<br /><strong><code>terminal-green</code></strong>
+<br /><sub>80s phosphor CRT · mono-only + scanlines</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/neon-cyber.png"><img src="../../dist/imgs/web-video/neon-cyber.png" alt="neon-cyber preview" /></a>
+<br /><strong><code>neon-cyber</code></strong>
+<br /><sub>Cyberpunk future · cyan + magenta double-neon</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/bold-signal.png"><img src="../../dist/imgs/web-video/bold-signal.png" alt="bold-signal preview" /></a>
+<br /><strong><code>bold-signal</code></strong>
+<br /><sub>Hero pitch deck · dark gradient + orange focal card</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/creative-voltage.png"><img src="../../dist/imgs/web-video/creative-voltage.png" alt="creative-voltage preview" /></a>
+<br /><strong><code>creative-voltage</code></strong>
+<br /><sub>Saturated electric blue + neon yellow halftone</sub>
+</td>
+</tr>
+</table>
 
-See [THEMES.md](./references/THEMES.md) for the full token contract, signature for each theme, and how to derive new themes from existing ones (including Swiss yellow / green / orange variants).
+### Light · 15 themes
+
+> Bright editorial canvases — for clarity, restraint, and the warmth of printed paper.
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/paper-press.png"><img src="../../dist/imgs/web-video/paper-press.png" alt="paper-press preview" /></a>
+<br /><strong><code>paper-press</code></strong>
+<br /><sub>Editorial paper · warm cream + hot orange</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/newsroom.png"><img src="../../dist/imgs/web-video/newsroom.png" alt="newsroom preview" /></a>
+<br /><strong><code>newsroom</code></strong>
+<br /><sub>NYT broadsheet · newsprint cream + banner red</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/monochrome-print.png"><img src="../../dist/imgs/web-video/monochrome-print.png" alt="monochrome-print preview" /></a>
+<br /><strong><code>monochrome-print</code></strong>
+<br /><sub>Refined Monocle / Wallpaper print restraint</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/vintage-editorial.png"><img src="../../dist/imgs/web-video/vintage-editorial.png" alt="vintage-editorial preview" /></a>
+<br /><strong><code>vintage-editorial</code></strong>
+<br /><sub>Witty Fraunces + geometric overlay (circle / line / dot)</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/sunset-zine.png"><img src="../../dist/imgs/web-video/sunset-zine.png" alt="sunset-zine preview" /></a>
+<br /><strong><code>sunset-zine</code></strong>
+<br /><sub>Risograph zine · peach + magenta + dashed cut lines</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/pastel-dream.png"><img src="../../dist/imgs/web-video/pastel-dream.png" alt="pastel-dream preview" /></a>
+<br /><strong><code>pastel-dream</code></strong>
+<br /><sub>Soft pastel + sage + right-edge pill ribbon</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/warm-keynote.png"><img src="../../dist/imgs/web-video/warm-keynote.png" alt="warm-keynote preview" /></a>
+<br /><strong><code>warm-keynote</code></strong>
+<br /><sub>Modern SaaS keynote · glass slab + teal + warm grid</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/electric-studio.png"><img src="../../dist/imgs/web-video/electric-studio.png" alt="electric-studio preview" /></a>
+<br /><strong><code>electric-studio</code></strong>
+<br /><sub>Corporate clarity · crisp white + electric-blue base bar</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/bauhaus-bold.png"><img src="../../dist/imgs/web-video/bauhaus-bold.png" alt="bauhaus-bold preview" /></a>
+<br /><strong><code>bauhaus-bold</code></strong>
+<br /><sub>Manifesto modernist · 0 radius + 4 px thick frame</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/swiss-ikb.png"><img src="../../dist/imgs/web-video/swiss-ikb.png" alt="swiss-ikb preview" /></a>
+<br /><strong><code>swiss-ikb</code></strong>
+<br /><sub>Extra-light 200 Helvetica + IKB + 1 px hairline grid</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/dune.png"><img src="../../dist/imgs/web-video/dune.png" alt="dune preview" /></a>
+<br /><strong><code>dune</code></strong>
+<br /><sub>Charcoal + sand · near-zero accent (architecture brochure)</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/indigo-porcelain.png"><img src="../../dist/imgs/web-video/indigo-porcelain.png" alt="indigo-porcelain preview" /></a>
+<br /><strong><code>indigo-porcelain</code></strong>
+<br /><sub>Indigo <em>is</em> the ink (not an accent) + porcelain white</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/forest-ink.png"><img src="../../dist/imgs/web-video/forest-ink.png" alt="forest-ink preview" /></a>
+<br /><strong><code>forest-ink</code></strong>
+<br /><sub>Forest green <em>is</em> the ink + ivory (vintage National Geographic)</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/kraft-paper.png"><img src="../../dist/imgs/web-video/kraft-paper.png" alt="kraft-paper preview" /></a>
+<br /><strong><code>kraft-paper</code></strong>
+<br /><sub>Deep brown <em>is</em> the ink + kraft beige + copper accent</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/split-canvas.png"><img src="../../dist/imgs/web-video/split-canvas.png" alt="split-canvas preview" /></a>
+<br /><strong><code>split-canvas</code></strong>
+<br /><sub>Dual-tone · peach left + lavender right</sub>
+</td>
+<td align="center" width="50%" valign="middle">
+<br />
+<strong>+ derive your own</strong>
+<br /><sub>See <a href="./references/THEMES.md">THEMES.md</a> for the token contract,<br />theme signatures, and Swiss yellow / green / orange variants.</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 ---
 

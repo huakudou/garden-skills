@@ -119,40 +119,170 @@ bash skills/web-video-presentation/scripts/scaffold.sh --list-themes
 
 ---
 
-## 内置主题方向
+## 主题画廊
 
-Skill 内置 **23 套**主题，每套都有独立的设计 DNA —— 不是简单的换色版。下面按底色分两组速览，挑一套接近你目标气质的，或者作为派生新主题的起点。
+Skill 内置 **23 套**主题，每套都有独立的设计 DNA —— 不是简单换色版。下面按底色分两组浏览，挑一套接近目标气质的，或者把任意一格当作派生新主题的起点。点击任意预览图可放大查看 1920×1080 原帧。
 
-### 深色（8 套）
+> 所有截图都是真实的 16:9 舞台，来自 [`demo/web-video-presentation-demo`](../../demo/web-video-presentation-demo/) 现场画廊。
 
-- `midnight-press` 暗色印刷 —— 电影感编辑、暖暗底 + 火热橙
-- `chalk-garden` 粉笔花园 —— 深石板黑板 + 手写体 + 粉笔黄
-- `terminal-green` 终端绿 —— 80 年代磷光终端 + CRT 扫描线
-- `blueprint` 工程蓝图 —— 深海军 + 制图青 + 60px 网格
-- `dark-botanical` 暗夜植物 —— 暖陶 / 玫粉 / 鎏金叠层，时尚刊物封面
-- `neon-cyber` 霓虹赛博 —— 电光青 + 玫红双霓虹，未来派
-- `bold-signal` 焦点信号 —— 大橙色焦点色卡 + Archivo Black，pitch deck
-- `creative-voltage` 电压创意 —— 饱和电光蓝 + 霓黄 + halftone
+### 深色 · 8 套
 
-### 浅色（15 套）
+> 电影感深色画布 —— 适合需要聚焦、戏剧张力、强对比的叙事。
 
-- `paper-press` 亮色印刷 —— 暖奶油纸 + 火热橙
-- `warm-keynote` 暖色 Keynote —— 大圆角 glass slab + 青绿 + 40px 网格
-- `newsroom` 报社 —— NYT 大报、奶油 + 墨黑 + 旗红
-- `bauhaus-bold` 包豪斯 —— 0 圆角 + 4px 厚边 + 偏移实色阴影
-- `sunset-zine` 日落 Zine —— 暖桃 + 玫红 + Fraunces + 虚线剪贴
-- `monochrome-print` 黑白印刷 —— 安静精炼，Monocle / Wallpaper 气质
-- `vintage-editorial` 复古编辑 —— 俏皮 Fraunces + 几何叠层（圆 / 线 / 点）
-- `pastel-dream` 柔光梦 —— 柔粉蓝灰 + 鼠尾草绿 + 右侧 pill 色条
-- `split-canvas` 双拼画布 —— 蜜桃 + 薰衣草 50/50 双底色
-- `electric-studio` 电光企业 —— 净白 + 电光蓝 + 贴底 4px 蓝条
-- `indigo-porcelain` 靛蓝瓷 —— 靛蓝当墨（不是 accent，是字色本身）+ 瓷白
-- `forest-ink` 森林墨 —— 森林绿当墨 + 象牙，旧版国家地理感
-- `kraft-paper` 牛皮纸 —— 深棕当墨 + 牛皮米 + 紫铜 accent
-- `dune` 沙丘 —— 炭褐 + 沙底，几乎无 accent，建筑画廊感
-- `swiss-ikb` 瑞士克莱因蓝 —— 极细 200 weight + IKB + 1px 发丝网格
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/midnight-press.png"><img src="../../dist/imgs/web-video/midnight-press.png" alt="midnight-press 预览" /></a>
+<br /><strong><code>midnight-press</code> · 暗色印刷</strong>
+<br /><sub>电影感编辑暗底 · 暖暗底 + 火热橙</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/dark-botanical.png"><img src="../../dist/imgs/web-video/dark-botanical.png" alt="dark-botanical 预览" /></a>
+<br /><strong><code>dark-botanical</code> · 暗夜植物</strong>
+<br /><sub>高级时尚刊物 · 暖陶 / 玫粉 / 鎏金叠层</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/chalk-garden.png"><img src="../../dist/imgs/web-video/chalk-garden.png" alt="chalk-garden 预览" /></a>
+<br /><strong><code>chalk-garden</code> · 粉笔花园</strong>
+<br /><sub>深石板黑板 · 手写 Patrick Hand + 粉笔黄</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/blueprint.png"><img src="../../dist/imgs/web-video/blueprint.png" alt="blueprint 预览" /></a>
+<br /><strong><code>blueprint</code> · 工程蓝图</strong>
+<br /><sub>制图工作台 · 深海军 + 制图青 + 60 px 网格</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/terminal-green.png"><img src="../../dist/imgs/web-video/terminal-green.png" alt="terminal-green 预览" /></a>
+<br /><strong><code>terminal-green</code> · 终端绿</strong>
+<br /><sub>80 年代磷光 CRT · 纯等宽 + 扫描线</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/neon-cyber.png"><img src="../../dist/imgs/web-video/neon-cyber.png" alt="neon-cyber 预览" /></a>
+<br /><strong><code>neon-cyber</code> · 霓虹赛博</strong>
+<br /><sub>赛博朋克未来 · 电光青 + 玫红双霓虹</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/bold-signal.png"><img src="../../dist/imgs/web-video/bold-signal.png" alt="bold-signal 预览" /></a>
+<br /><strong><code>bold-signal</code> · 焦点信号</strong>
+<br /><sub>Pitch Deck 主舞台 · 暗渐变 + 大橙焦点卡</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/creative-voltage.png"><img src="../../dist/imgs/web-video/creative-voltage.png" alt="creative-voltage 预览" /></a>
+<br /><strong><code>creative-voltage</code> · 电压创意</strong>
+<br /><sub>饱和电光蓝 + 霓虹黄 + halftone 网点</sub>
+</td>
+</tr>
+</table>
 
-完整 token 契约、每套的设计签名、以及怎么基于现有主题派生新主题（包括 Swiss 黄 / 绿 / 橙变体），见 [THEMES.md](./references/THEMES.md)。
+### 浅色 · 15 套
+
+> 明亮编辑画布 —— 适合清晰、克制、带纸感温度的内容。
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/paper-press.png"><img src="../../dist/imgs/web-video/paper-press.png" alt="paper-press 预览" /></a>
+<br /><strong><code>paper-press</code> · 亮色印刷</strong>
+<br /><sub>编辑纸张 · 暖奶油 + 火热橙</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/newsroom.png"><img src="../../dist/imgs/web-video/newsroom.png" alt="newsroom 预览" /></a>
+<br /><strong><code>newsroom</code> · 报社</strong>
+<br /><sub>NYT 大报 · 新闻纸奶油 + 旗红</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/monochrome-print.png"><img src="../../dist/imgs/web-video/monochrome-print.png" alt="monochrome-print 预览" /></a>
+<br /><strong><code>monochrome-print</code> · 黑白印刷</strong>
+<br /><sub>精炼克制 · Monocle / Wallpaper 气质</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/vintage-editorial.png"><img src="../../dist/imgs/web-video/vintage-editorial.png" alt="vintage-editorial 预览" /></a>
+<br /><strong><code>vintage-editorial</code> · 复古编辑</strong>
+<br /><sub>俏皮 Fraunces + 几何叠层（圆 / 线 / 点）</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/sunset-zine.png"><img src="../../dist/imgs/web-video/sunset-zine.png" alt="sunset-zine 预览" /></a>
+<br /><strong><code>sunset-zine</code> · 日落 Zine</strong>
+<br /><sub>Risograph 拼贴 · 暖桃 + 玫红 + 虚线剪贴</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/pastel-dream.png"><img src="../../dist/imgs/web-video/pastel-dream.png" alt="pastel-dream 预览" /></a>
+<br /><strong><code>pastel-dream</code> · 柔光梦</strong>
+<br /><sub>柔粉 + 鼠尾草绿 + 右侧 pill 色条</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/warm-keynote.png"><img src="../../dist/imgs/web-video/warm-keynote.png" alt="warm-keynote 预览" /></a>
+<br /><strong><code>warm-keynote</code> · 暖色 Keynote</strong>
+<br /><sub>现代 SaaS Keynote · glass slab + 青绿 + 暖色网格</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/electric-studio.png"><img src="../../dist/imgs/web-video/electric-studio.png" alt="electric-studio 预览" /></a>
+<br /><strong><code>electric-studio</code> · 电光企业</strong>
+<br /><sub>企业级清晰 · 净白 + 贴底电光蓝色条</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/bauhaus-bold.png"><img src="../../dist/imgs/web-video/bauhaus-bold.png" alt="bauhaus-bold 预览" /></a>
+<br /><strong><code>bauhaus-bold</code> · 包豪斯</strong>
+<br /><sub>宣言式现代主义 · 0 圆角 + 4 px 厚边</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/swiss-ikb.png"><img src="../../dist/imgs/web-video/swiss-ikb.png" alt="swiss-ikb 预览" /></a>
+<br /><strong><code>swiss-ikb</code> · 瑞士克莱因蓝</strong>
+<br /><sub>极细 200 Helvetica + IKB + 1 px 发丝网格</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/dune.png"><img src="../../dist/imgs/web-video/dune.png" alt="dune 预览" /></a>
+<br /><strong><code>dune</code> · 沙丘</strong>
+<br /><sub>炭褐 + 沙底 · 近乎零 accent，建筑画廊感</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/indigo-porcelain.png"><img src="../../dist/imgs/web-video/indigo-porcelain.png" alt="indigo-porcelain 预览" /></a>
+<br /><strong><code>indigo-porcelain</code> · 靛蓝瓷</strong>
+<br /><sub>靛蓝<em>本身即墨</em>（不是 accent）+ 瓷白</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/forest-ink.png"><img src="../../dist/imgs/web-video/forest-ink.png" alt="forest-ink 预览" /></a>
+<br /><strong><code>forest-ink</code> · 森林墨</strong>
+<br /><sub>森林绿<em>本身即墨</em> + 象牙 · 旧版国家地理</sub>
+</td>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/kraft-paper.png"><img src="../../dist/imgs/web-video/kraft-paper.png" alt="kraft-paper 预览" /></a>
+<br /><strong><code>kraft-paper</code> · 牛皮纸</strong>
+<br /><sub>深棕<em>本身即墨</em> + 牛皮米 + 紫铜 accent</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="../../dist/imgs/web-video/split-canvas.png"><img src="../../dist/imgs/web-video/split-canvas.png" alt="split-canvas 预览" /></a>
+<br /><strong><code>split-canvas</code> · 双拼画布</strong>
+<br /><sub>50/50 双底色 · 蜜桃左 + 薰衣草右</sub>
+</td>
+<td align="center" width="50%" valign="middle">
+<br />
+<strong>+ 派生你自己的</strong>
+<br /><sub>完整 token 契约、每套设计签名、<br />以及怎么派生新主题（Swiss 黄 / 绿 / 橙变体等），<br />见 <a href="./references/THEMES.md">THEMES.md</a>。</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 ---
 
