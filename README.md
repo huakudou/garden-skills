@@ -72,6 +72,10 @@ Highlights:
 - **Pluggable TTS** — provider-agnostic audio runner; ships **two built-in providers** (MiniMax `mmx-cli` + OpenAI TTS via curl) plus a contract + ready-to-paste snippets for ElevenLabs / edge-tts / Azure / Google Cloud / macOS `say`
 - Scaffolded Vite + React + TypeScript project with reusable stage primitives and recording guidance
 
+<a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/gallery.png" alt="Theme gallery — 23 built-in themes for web-video-presentation" /></a>
+
+<sub>↑ All 23 themes at a glance — <a href="./skills/web-video-presentation/README.md#theme-gallery"><b>open the full gallery</b></a> for live 16:9 previews, design signatures, and best-for tags.</sub>
+
 Links: [README](./skills/web-video-presentation/README.md) · [SKILL.md](./skills/web-video-presentation/SKILL.md) · <!-- DOWNLOAD:web-video-presentation:start -->[Download v1.2.1 .zip](https://github.com/ConardLi/garden-skills/releases/download/web-video-presentation-v1.2.1/web-video-presentation-1.2.1.zip)<!-- DOWNLOAD:web-video-presentation:end -->
 
 ---
