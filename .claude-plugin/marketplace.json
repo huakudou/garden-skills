@@ -4,8 +4,8 @@
     "name": "ConardLi"
   },
   "metadata": {
-    "description": "A curated collection of agent skills covering web video presentations, visual web design, local knowledge-base retrieval, and GPT Image 2 image generation.",
-    "version": "0.3.0"
+    "description": "A curated collection of agent skills covering web video presentations, visual web design, local knowledge-base retrieval, GPT Image 2 image generation, and beautifully designed single-file HTML articles.",
+    "version": "0.4.0"
   },
   "plugins": [
     {
@@ -42,6 +42,15 @@
       "strict": false,
       "skills": [
         "./skills/gpt-image-2"
+      ]
+    },
+    {
+      "name": "beautiful-article-skills",
+      "description": "Skills for turning URL / PDF / DOCX / Markdown / text / screenshots into beautifully designed, offline-friendly single-file HTML articles via the reacticle component protocol.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/beautiful-article"
       ]
     }
   ]
