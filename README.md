@@ -100,7 +100,9 @@ Links: [README](./skills/web-video-presentation/README.md) · [SKILL.md](./skill
 
 Highlights:
 
-- Defines a six-step design workflow: requirements → context → design system → v0 → full build → verification
+- Converts the brief into a five-dial Design Read covering variance, motion, density, asset dependence, and brand fidelity
+- Distinguishes extension, preserve, and overhaul redesign modes before changing an existing product
+- Runs executable browser acceptance only when the user explicitly requests acceptance, QA, or browser testing
 - Pushes beyond generic AI UI patterns with an anti-cliché blocklist and stronger visual judgment
 - Ships a **Design Direction Advisor (six differentiated schools) + 25 anchored style recipes** (Linear / Aesop / Pentagram / Bloomberg / Stripe Press / Mid-Century, etc.) — each recipe carries concrete palette, typography, signature moves, and anti-patterns ready to paste into the design-system declaration
 - Covers HTML / CSS / JavaScript / React prototypes, with guidance for responsive layout, motion, and interaction polish

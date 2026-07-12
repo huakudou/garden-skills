@@ -100,7 +100,9 @@
 
 亮点：
 
-- 定义六步设计工作流：需求 → 上下文 → 设计系统 → v0 → 完整构建 → 验证
+- 用五旋钮 Design Read 把 brief 转成构图变化、动效、密度、素材依赖与品牌保真决策
+- 改动现有产品前先区分 Extension、Preserve 与 Overhaul
+- 只有用户明确提出验收、QA 或浏览器测试时，才运行可执行浏览器验收 harness
 - 用反 AI 俗套清单和更强的视觉判断，避免千篇一律的生成式 UI
 - 内置 **设计方向顾问（6 学派差异化推荐）+ 25 套有 anchor 的风格配方库**（Linear / Aesop / Pentagram / Bloomberg / Stripe Press / Mid-Century 等），含可粘贴的 palette / typography / signature moves / 反模式
 - 覆盖 HTML / CSS / JavaScript / React 原型，以及响应式布局、动效和交互细节
